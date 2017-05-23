@@ -1,4 +1,4 @@
-# iOS client for Google Storage uploads using Service Accounts
+# iOS client for Google Storage upload using Service Accounts
 
 Many organizations use private data acquisition apps to collect information out in the field and upload it to a cloud storage account for back-end processing.
 
