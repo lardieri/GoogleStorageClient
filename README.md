@@ -1,4 +1,4 @@
-# Google Storage Client for iOS using Service Accounts
+# iOS client for Google Storage uploads using Service Account authentication
 
 Many organizations use private data acquisition apps to collect information out in the field and upload it to a cloud storage account for back-end processing.
 
@@ -17,4 +17,4 @@ This project uses the forked JWT (unofficial version 2.2.1) and demonstrates how
 
 You should never bake a private key directly into any app that you intend to distribute through the App Store. That is a severe security flaw. Any script kiddie can download your app bundle into the iTunes directory on their computer and find your key using a variety of tools ("man strings" for the most basic of these)
 
-The technique demonstrated here is soley for private apps that you only place on trusted devices and only distribute to employees of your own organization.
+The technique demonstrated here is only for private apps that you only place on trusted devices and only distribute to employees of your own organization.
